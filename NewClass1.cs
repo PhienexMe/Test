@@ -7,5 +7,6 @@ namespace Test
 {
     class NewClass1
     {
+        public bool MyProperty { get; set; }
     }
 }
