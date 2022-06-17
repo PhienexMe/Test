@@ -8,5 +8,6 @@
         Title="MainWindow" SizeToContent="WidthAndHeight">
     <Grid>
         <TextBlock Text="测试"/>
+        <TextBlock Text="CloneTest2" Margin="0 20 0 0"/>
     </Grid>
 </Window>
