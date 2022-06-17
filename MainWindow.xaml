@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" SizeToContent="WidthAndHeight">
     <Grid>
-        <TextBlock Text="测试"/>
+        <TextBlock Text="Folder1" Width="200"/>
     </Grid>
 </Window>
